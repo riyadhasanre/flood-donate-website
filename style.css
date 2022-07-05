@@ -7,6 +7,7 @@ font-family: 'Signika Negative', sans-serif;
     background-repeat:no-repeat;
     background-position: center;
     background-size: cover;
+    
 }
  .help-people{
     color:white;
@@ -29,14 +30,39 @@ font-family: 'Signika Negative', sans-serif;
     font-size:20px;
     border-radius: 5px;
     
-    
-    
    } 
-    
-    
-    
-    
-    
+  section{
+    margin-top:300px;
+    text-align: center;
+  }  
+  .donate-today{
+    font-size: 50px;
+  }  
+  .taka div {
+    border:1px solid #F7F7F7;
+    background-color:#F7F7F7 ;
+    height:120px;
+    width:120px;
+    margin:10px;
+    display: inline-block;
+  }
+   .money{
+      margin-top:50px;
+      font-size:30px;
+   } 
+    .village{
+      color:#746e6e;
+      font-size:20px;
+    }
+    #taka2{
+      border-radius:5px;
+      border:2px solid #e84a30;
+      background-color:rgb(247, 215, 215);
+      
+    }
+    #taka2 p{
+      color:red;
+    }
     
     
     
