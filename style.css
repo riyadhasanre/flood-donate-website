@@ -20,6 +20,7 @@ font-family: 'Signika Negative', sans-serif;
  .help-people p{
     font-size:20px;
     margin-bottom:40px;
+    color:#F7F7F7;
  }
     .anchor{
     color:white;
@@ -62,6 +63,10 @@ font-family: 'Signika Negative', sans-serif;
     }
     #taka2 p{
       color:red;
+    }
+    .amount{
+      color:#aca7a7;
+      font-size: 18px;
     }
     
     
