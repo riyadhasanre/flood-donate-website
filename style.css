@@ -18,7 +18,7 @@ font-family: 'Signika Negative', sans-serif;
     font-size:70px;
  }  
  .help-people p{
-    font-size:20px;
+    font-size:18px;
     margin-bottom:40px;
     color:#F7F7F7;
  }
@@ -53,7 +53,7 @@ font-family: 'Signika Negative', sans-serif;
    } 
     .village{
       color:#746e6e;
-      font-size:20px;
+      font-size:18px;
     }
     #taka2{
       border-radius:5px;
@@ -68,13 +68,83 @@ font-family: 'Signika Negative', sans-serif;
       color:#aca7a7;
       font-size: 18px;
     }
+    .plan{
+      text-align: center;
+      margin-top:10px;
+  
+    }
+    .plan h1{
+      font-size:50px;
+    }
+    .plan p{
+      font-size:18px;
+      color:#746e6e;
+    }
+    .our-donate div{
+      height:300px;
+      width:300px;
+      margin:20px 10px;
+      display: inline-block;
+      border-radius:5px;
+      
+      
+    }
+  .donate1{
+    background-color: #e5ebf0;
+    text-align: left;
+
+    }
+      .donate1 img{
+      margin-top:30px;
+      margin-left:20px;
+    }
+      .donate1 h2{
+      margin-top:30px;
+      margin-left:20px;
+    }
+      .donate1 p{
+      margin-top:30px;
+      margin-left:20px;
+    }
+    .our-donate{
+      text-align: center;
+      
+    }
+    .donate2{
+      background-color:rgb(247, 205, 212);
+      text-align: left;
+  
+      }
+        .donate2 img{
+        margin-top:30px;
+        margin-left:20px;
+      }
+        .donate2 h2{
+        margin-top:30px;
+        margin-left:20px;
+      }
+        .donate2 p{
+        margin-top:30px;
+        margin-left:20px;
+      }
     
+      .donate3{
+        background-color: rgb(243, 238, 165);
+        text-align: left;
     
-    
-    
-    
-    
-    
+        }
+          .donate3 img{
+          margin-top:30px;
+          margin-left:20px;
+        }
+          .donate3 h2{
+          margin-top:30px;
+          margin-left:20px;
+        }
+          .donate3 p{
+          margin-top:30px;
+          margin-left:20px;
+        }
     
     
     
