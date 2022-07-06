@@ -83,7 +83,7 @@ font-family: 'Signika Negative', sans-serif;
     .our-donate div{
       height:300px;
       width:300px;
-      
+      margin:20px 10px;
       display: inline-block;
       border-radius:5px;
       
