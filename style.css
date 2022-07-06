@@ -7,9 +7,10 @@ body{
     background-repeat:no-repeat;
     background-position: center;
     background-size: cover;
+
 }
 .help-people{
-    color:white;
+    color:rgb(199, 197, 197);
     text-align:center;
     padding-top:150px;
 } 
