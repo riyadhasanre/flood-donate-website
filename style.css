@@ -1,28 +1,27 @@
 body{
     font-family: 'Poppins', sans-serif;
-font-family: 'Signika Negative', sans-serif;
+    font-family: 'Signika Negative', sans-serif;
     background-image: url(images/donation3.jpg);
     margin:0;
     height:500px;
     background-repeat:no-repeat;
     background-position: center;
     background-size: cover;
-    
 }
- .help-people{
+.help-people{
     color:white;
     text-align:center;
     padding-top:150px;
- } 
- .help-people h1{
+} 
+.help-people h1{
     font-size:70px;
- }  
- .help-people p{
+}  
+.help-people p{
     font-size:18px;
     margin-bottom:40px;
     color:#F7F7F7;
- }
-    .anchor{
+}
+.anchor{
     color:white;
     text-align:center;
     text-decoration:none;
@@ -30,156 +29,155 @@ font-family: 'Signika Negative', sans-serif;
     background-color:#e84a30;
     font-size:20px;
     border-radius: 5px;
-    
-   } 
-  section{
+} 
+section{
     margin-top:300px;
     text-align: center;
-  }  
-  .donate-today{
+}  
+.donate-today{
     font-size: 50px;
-  }  
-  .taka div {
+}  
+.taka div {
     border:1px solid #F7F7F7;
     background-color:#F7F7F7 ;
     height:120px;
     width:120px;
     margin:10px;
     display: inline-block;
-  }
-   .money{
+}
+.money{
       margin-top:50px;
       font-size:30px;
-   } 
-    .village{
+} 
+.village{
       color:#746e6e;
       font-size:18px;
-    }
-    #taka2{
+}
+#taka2{
       border-radius:5px;
       border:2px solid #e84a30;
       background-color:rgb(247, 215, 215);
       
-    }
-    #taka2 p{
+}
+#taka2 p{
       color:red;
-    }
-    .amount{
+}
+.amount{
       color:#aca7a7;
       font-size: 18px;
-    }
-    .plan{
+}
+.plan{
       text-align: center;
       margin-top:150px;
       
   
-    }
-    .plan h1{
+}
+.plan h1{
       font-size:50px;
-    }
-    .plan p{
+}
+.plan p{
       font-size:18px;
       color:#746e6e;
-    }
-    .our-donate div{
+}
+.our-donate div{
       height:320px;
       width:320px;
       margin:20px 10px;
       display: inline-block;
       border-radius:5px;
       
-    }
-  .donate1{
+}
+.donate1{
     background-color: #eff2f5;
     text-align: left;
 
-    }
-      .donate1 img{
+}
+.donate1 img{
       margin-top:30px;
       margin-left:20px;
-    }
-      .donate1 h2{
+}
+.donate1 h2{
       margin-top:30px;
       margin-left:20px;
-    }
-      .donate1 p{
+}
+.donate1 p{
       margin-top:30px;
       margin-left:20px;
       font-size: 18px;
       color:#746e6e;
-    }
-    .our-donate{
+}
+.our-donate{
       text-align: center;
       margin-bottom: 100px;
       
-    }
-    .donate2{
+}
+.donate2{
       background-color:rgb(250, 237, 239);
       text-align: left;
   
-      }
-        .donate2 img{
+}
+.donate2 img{
         margin-top:30px;
         margin-left:20px;
-      }
-        .donate2 h2{
+}
+.donate2 h2{
         margin-top:30px;
         margin-left:20px;
-      }
-        .donate2 p{
+}
+.donate2 p{
         margin-top:30px;
         margin-left:20px;
         font-size: 18px;
           color:#746e6e;
-      }
+ }
     
-      .donate3{
+.donate3{
         background-color: rgb(243, 241, 210);
         text-align: left;
     
-        }
-          .donate3 img{
+}
+.donate3 img{
           margin-top:30px;
           margin-left:20px;
-        }
-          .donate3 h2{
+}
+.donate3 h2{
           margin-top:30px;
           margin-left:20px;
-        }
-          .donate3 p{
-          margin-top:30px;
-          margin-left:20px;
-          font-size: 18px;
-          color:#746e6e;
-        }
-    .donation10 img{
+}
+.donate3 p{
+            margin-top:30px;
+            margin-left:20px;
+            font-size: 18px;
+            color:#746e6e;
+}
+.donation10 img{
       height:300px;
       width:300px;
       margin:5px;
-    }
-    .small div{
+}
+.small div{
       width:100%;
       display:inline-block;
       margin-left:45px;
-    }
-   .help-them{
+}
+.help-them{
     text-align: center;
-   }
-   .help-them p{
+}
+.help-them p{
     color:#746e6e;
     font-size: 18px;
-   }
-   .help-them h1{
+}
+.help-them h1{
     font-size:40px;
-   }
-   .bkash{
+}
+.bkash{
     text-align: center;
     margin: 50px 0;
-   } 
-    .your-donation{
+} 
+.your-donation{
       text-align: center;
-    }
-    .your-donation a{
+}
+.your-donation a{
       color:white;
     text-align:center;
     text-decoration:none;
@@ -187,19 +185,19 @@ font-family: 'Signika Negative', sans-serif;
     background-color:#e84a30;
     font-size:20px;
     border-radius: 5px;
-    }
-    .get{
+}
+.get{
       text-align: center;
       margin:150px 0 40px 0;
-    }
-    .get h1{
+}
+.get h1{
       font-size: 50px;
-    }
-    .get p{
+}
+.get p{
       font-size: 18px;
       color:#746e6e;
-    }
-    .form{
+}
+.form{
       text-align: center;
       width:760px;
       height:185px;
@@ -208,24 +206,23 @@ font-family: 'Signika Negative', sans-serif;
       margin-left: 300px;;
       margin-bottom: 150px;
       
-    }
-    .box1{
+}
+.box1{
       padding:11px 11px 11px 11px;
       border-radius:6px;
       background-color: #ececec;
       box-shadow:5px 5px 5px #c7c4c4;
       margin:70px 160px 70px 150px;
-      
-    }
-    .box1 input{
+}
+.box1 input{
       border:none;
       font-size:16px;
       margin-right: 90px;
       color:#746e6e;
       background-color: #ececec;
     
-    }
- .box1 a {
+}
+.box1 a {
       font-size: 17px;
       padding:10px 30px ;
       text-decoration: none;
@@ -234,22 +231,22 @@ font-family: 'Signika Negative', sans-serif;
       background-color: red;
       border-radius:3px;
       margin-left:px;
-      }
-      .footer{
+}
+.footer{
         background-color: black;
         width:100%;
         height:160px;
         display:inline-block;
-      }
-      .footer h1{
+}
+.footer h1{
         color:tomato;
         text-align: center;
-        
-      }
-      .footer p{
+        font-family: 'Kaushan Script', cursive;
+}
+.footer p{
         text-align: center;
         color:#a09d9d;
-      }
-      .be-humble{
+}
+.be-humble{
         margin-top: 43px;
-      }
+}
