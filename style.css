@@ -82,15 +82,15 @@ font-family: 'Signika Negative', sans-serif;
       color:#746e6e;
     }
     .our-donate div{
-      height:300px;
-      width:300px;
+      height:320px;
+      width:320px;
       margin:20px 10px;
       display: inline-block;
       border-radius:5px;
       
     }
   .donate1{
-    background-color: #e5ebf0;
+    background-color: #eff2f5;
     text-align: left;
 
     }
@@ -105,6 +105,8 @@ font-family: 'Signika Negative', sans-serif;
       .donate1 p{
       margin-top:30px;
       margin-left:20px;
+      font-size: 18px;
+      color:#746e6e;
     }
     .our-donate{
       text-align: center;
@@ -112,7 +114,7 @@ font-family: 'Signika Negative', sans-serif;
       
     }
     .donate2{
-      background-color:rgb(247, 205, 212);
+      background-color:rgb(250, 237, 239);
       text-align: left;
   
       }
@@ -127,10 +129,12 @@ font-family: 'Signika Negative', sans-serif;
         .donate2 p{
         margin-top:30px;
         margin-left:20px;
+        font-size: 18px;
+          color:#746e6e;
       }
     
       .donate3{
-        background-color: rgb(243, 238, 165);
+        background-color: rgb(243, 241, 210);
         text-align: left;
     
         }
@@ -145,6 +149,8 @@ font-family: 'Signika Negative', sans-serif;
           .donate3 p{
           margin-top:30px;
           margin-left:20px;
+          font-size: 18px;
+          color:#746e6e;
         }
     .donation10 img{
       height:300px;
@@ -160,7 +166,11 @@ font-family: 'Signika Negative', sans-serif;
     text-align: center;
    }
    .help-them p{
-    color:746e6e;
+    color:#746e6e;
+    font-size: 18px;
+   }
+   .help-them h1{
+    font-size:40px;
    }
    .bkash{
     text-align: center;
@@ -178,8 +188,36 @@ font-family: 'Signika Negative', sans-serif;
     font-size:20px;
     border-radius: 5px;
     }
+    .get{
+      text-align: center;
+      margin:150px 0 40px 0;
+    }
+    .get h1{
+      font-size: 50px;
+    }
+    .get p{
+      font-size: 18px;
+      color:#746e6e;
+    }
+    .form{
+      text-align: center;
+      width:760px;
+      height:185px;
+      background-color: #fdf0ca;
+      display:inline-block;
+      margin-left: 300px;;
+      margin-bottom: 150px;;
+    }
+    .form input{
+        width:250px;
+        height:40px;
+    }
+    .subscribe{
+      
+    }
+   .email{
     
+   } 
+   .checkbox{
     
-    
-    
-    
+   }
