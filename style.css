@@ -66,6 +66,15 @@ section{
       color:#aca7a7;
       font-size: 18px;
 }
+
+.row {
+     border: 0;
+     border-bottom: 1px solid #aca7a7;
+     outline: 0;
+     margin:0px 310px 46px 310px;
+  
+}
+
 .plan{
       text-align: center;
       margin-top:150px;
